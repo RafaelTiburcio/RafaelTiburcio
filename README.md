@@ -1,6 +1,6 @@
 ### Hello there! I´m Rafael Tiburcio👋
 
-- 🌱 I’m currently learning Html, CSS, C# and Python
+- 🌱 I’m currently learning JavaScript, java, C# and Python
 - 📫 How to reach me: contatorafaeltiburcio@gmail.com  //  https://linkedin.com/in/rafael-tiburcio-b92292224/
 
 <div align="center">
